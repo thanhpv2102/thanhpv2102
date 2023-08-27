@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+👋 Hi, I’m Pham Viet Thanh
+🔭 Graduated from HUST - Bachelor's degree in Data Science & AI
+🌱 I’m currently working on spoken language processing, mainly in Speaker Recognition, Automatic Speech Recognition, and other related tasks
+📫 How to reach me: thanh.pv.ds@gmail.com
+💼 Vbee JSC & HUST
 <!--
 **thanhpv2102/thanhpv2102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
