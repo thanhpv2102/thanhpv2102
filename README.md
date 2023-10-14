@@ -1,9 +1,9 @@
 
 👋 Hi, I’m Pham Viet Thanh.
 
-🔭 Graduated from HUST - Bachelor's degree in Data Science & AI.
+🔭 Graduated from HUST - Bachelor's degree in Data Science.
 
-🌱 I’m currently working on spoken language processing, mainly in Speaker Recognition, Automatic Speech Recognition, and other related tasks.
+🌱 I’m currently working on Speech Processing, mainly in Speaker Recognition, Automatic Speech Recognition, and other speech-related tasks.
 
 📫 How to reach me: thanh.pv.ds@gmail.com
 
